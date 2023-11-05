@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sublibs {
+    margin-left: 2.5rem !important;
+}
+
+span {
+    opacity: 0.8 !important;
+}
+
+.logo {
+    width: 1rem;
+    margin-right: 1rem;
+}
+
+.css-t7haru-MuiPaper-root-MuiAppBar-root,
+.css-o5srbh-MuiPaper-root-MuiAppBar-root {
+    background-color: #6f6c9e !important;
+}
+
+.login {
+    background-image: linear-gradient(345deg, #fff, #6f6c9e) !important;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 10rem;
+}
+
+.login-main {
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+.css-binzgt {
+    margin-top: 20px !important;
+}
+
+.icon-img {
+    width: 24px;
+}
+
+.css-1f2kw6w-MuiContainer-root {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.css-1f2kw6w-MuiContainer-root {
+    max-width: 100% !important;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.btn-test {
+    width: 5rem;
+    padding: 10px;
+    text-align: center;
+}
